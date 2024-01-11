@@ -8,3 +8,4 @@ this so I'm going to archive the repository. Thanks to everyone for
 contributing!
 
 [example](https://doc.rust-lang.org/nomicon/ffi.html)
+[example2](https://hackmd.io/@haixuantao/B1U6P2lMs?print-pdf#/)
